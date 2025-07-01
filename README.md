@@ -25,11 +25,9 @@ This project presents a demographic and compensation analysis of a fictional com
 
 ## 🔍 Preview
 
-![Dashboard Screenshot](![workforce](https://github.com/user-attachments/assets/cf33ae56-82c5-44f1-9641-f18e81e44928))
+https://github.com/user-attachments/assets/860beb08-d091-40dc-855b-24453ac28cd3
 
-## 📁 Files
+
 - `excel.xlsx` – Interactive Excel Dashboard
-- ![Report Recommendation](![https://docs.google.com/presentation/d/15i2RaQu6ZSf2biYPzNrzuIkMrUrMsKCyxOvNdS4-xVw/edit?usp=sharing) – Written report with insights & recommendations
+- `Workforceanalysis`.pdf– Written report with insights & recommendations
 
-## ✨ Author
-Israel Olasupo – [LinkedIn](https://www.linkedin.com/in/olasupoisrael) | Excel & Analytics 
